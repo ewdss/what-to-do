@@ -2,7 +2,7 @@
 What to do if you don't know what to do - yet another guide to try to find it out.
 
 # Contribution policy
-1. Propose commit to this if you want to add. 
+1. Propose commit if you want to add. 
 2. Open issue here or on any other resource (reddit, whatever) if you want to start a discussion branch about some topic related to the subject matter. 
 3. Direct message to me via LinkedIn [here](https://www.linkedin.com/in/vl-morozov/)
 
