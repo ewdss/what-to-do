@@ -1,6 +1,9 @@
 # What to do if you don't know what to do
 What to do if you don't know what to do - yet another guide to try to find it out.
 
+# Disclaimer
+* This is not emergency resque toolkit or medically approved guide. Please, seek for the professional medical help in case you need it. 
+
 
 # Contribution policy
 1. Propose commit if you want to add. 
