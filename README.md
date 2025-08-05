@@ -4,8 +4,11 @@ What to do if you don't know what to do - yet another guide to try to find it ou
 ## Disclaimer
 * This is not emergency resque toolkit or medically approved guide. Please, seek for the professional medical help in case you need it. 
 
-## [Chapter 0 - some prerequisites before you start](somelink)
+## [Chapter 0 - Some prerequisites before you start](/prerequisited.md)
 Before 
+
+## [Chapter 1 - Explore yourself](explore_yourself.md)
+text
 
 ## Contribution policy
 1. Propose commit if you want to add. 
