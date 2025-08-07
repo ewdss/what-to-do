@@ -19,8 +19,7 @@ If you energy battery counts from 100% to 0%, and you are around 0% now, try to 
 
 How to get the minimal energy? Movements of your body is the simpliest way to get initial charge. 
 * Simple regular walking may be even enough;
-* Biking, tracking, running, and similar semi-sport light activities; 
-* Sports, dancing, and other.
+* Gym, biking, tracking, running, dancing and similar sport-like light activities; 
 
 Another possible way to get the spark for ignition is to look for external idea or challenge, which you can find with blogs, stories, books, movies, music, viewing nature, painting or converstations. It can both set you alive because of wonder or because of your understanding and feeling of someone's misery. But you body movenent is more reliable source of initial energy that any other one. If you move - you will definitely get some charge almost immediately. If you are seeking for something external to iginte you (e.g. idea, story, proposal), it becomes a question of probability, what and when you'll find. 
 
