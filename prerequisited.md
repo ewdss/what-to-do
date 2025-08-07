@@ -34,7 +34,7 @@ Another possible way to get the spark for ignition is to look for external idea 
 ### External resources if you want to explore it more
 _some link_
 
-## Will, wish, or desire to find the solution
+## Will to find the solution
 Let it be will, wish and desire synonims in that particular case. If energy is torque that moves you, then desire is your power and capacity to apply this torque. You need it both to start your journey and keep going all way long. If you ever read memoirs of prisoners of war imprisoned in concetration camps or memoirs of people stuck in a tough situations (abandoning marine vessels, long-term wearther obstacles in mountains etc), then maybe you have noticed that "experienced" prisoners after several weeks or months living in a terrible conditions in a very confined territories learning to notice if someone in their group is loosing his/her will to live. In such extreme conditions of fighting for the lives they could see the "lost of will to live" with their eyes. Usually such men dies in a couple of days after. 
 
 The will to look for an answer for a question "What to do" can be very similar. Since the question affects your personality very deeply, and the answer is "unknow where" and "unknown when to resolve", it can be easy to lose you "power" to contine looking for it. You should take care and be very friendly and supportive to your own "will". 
@@ -42,7 +42,9 @@ The will to look for an answer for a question "What to do" can be very similar. 
 Ensure that you have it in the beginning, and in the next chapters you can find some ideas how to grow and protect it. 
 
 ### External resources if you want to explore it more
-* Viktor E. Frankl, Man's Search for Meaning
+* [Viktor E. Frankl, Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
+* [Into the Wild, book](https://en.wikipedia.org/wiki/Into_the_Wild_(Krakauer_book))
+* [Into the Wild, movie](https://en.wikipedia.org/wiki/Into_the_Wild_(film))
 
 ## Safety environment and supportive surroundings
 You should be informed about Maslow's Hierarchy - a series of Human needs aligned in pyramid one by one. The bottom layer is about physical security. It's hard to pay attention to the question "what to do?" if your shelter is insecure, if you experience lack of water and food, if you don't have resources to cover your basic physiological and safety needs. Or at least your question "what to do?" will be focused on satisfaction of theese needs. When your physiological and safety needs are met, the context of the "what to do?" question will be different. Pay some attention on the context of your question "what to do?" and the Maslow's Hierarchy levels your are existing right now.
