@@ -11,7 +11,7 @@ To clarify the possible value of this guide:
 3. It is not intented to find the way of doing something you know about, and you basicly know how to do it, but you don't have experience. For example, if you need to repair the water tap, but don't know anything about plumbing, this guide is not the right tool to answer the question: "I don't know what to do." 
 
 Few words about the foundation of this guide:
-1. It uses well-known looped repetitive cycles of action with feedback reinforcement like HADI, PDCA, Agile/Scrum/SAFe/LeSS iteraction cycle, Cisco PPDIOO, etc. 
+1. It uses well-known repetitive cycles of action with the feedback loops like PDCA, HADI, Agile iteraction cycle, Cisco PPDIOO, etc. 
 2. It is based on the related to the title reccurring ideas from set of the books, articles and movies compiled together. 
 
 The structure of the guide:
@@ -31,7 +31,7 @@ The structure of the guide:
 There are some points to check and fix if required, before you start your journey in finding out what to do. 
 
 ## [Chapter 1 - Explore yourself](/explore_yourself.md)
-text
+Useful things to know about yourself
 
 ## [Chapter 2 - Explore around](/explore_around.md)
 text
@@ -39,14 +39,16 @@ text
 ## [Chapter 3 - Start moving](/start_moving.md)
 text
 
-## [Chapter 4 - Keep moving]()
+## [Chapter 4 - Keep moving](/keep_moving.md)
 text
 
-## [Chapter 5 - Inspect the results]()
+## [Chapter 5 - Inspect the results](/inspect.md)
 text
 
-## [Chapter 6 - Repeat if neccessary]()
+## [Chapter 6 - Repeat if neccessary](/repeat.md)
 text
+
+## [Chapter 99 - Counclusion](/conclusion.md)
 
 ## Contribution policy
 1. Propose commit if you want to add. 
