@@ -41,9 +41,10 @@ The will to look for an answer for a question "What to do" can be very similar. 
 Ensure that you have it in the beginning, and in the next chapters you can find some ideas how to grow and protect it. 
 
 ### External resources if you want to explore it more
-* [Viktor E. Frankl, Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
+* [Man's Search for Meaning, book](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
 * [Into the Wild, book](https://en.wikipedia.org/wiki/Into_the_Wild_(Krakauer_book))
 * [Into the Wild, movie](https://en.wikipedia.org/wiki/Into_the_Wild_(film))
+* [Unbroken, book](https://en.wikipedia.org/wiki/Unbroken_(book))
 
 ## Safety environment and supportive surroundings
 You should be informed about Maslow's Hierarchy - a series of Human needs aligned in pyramid one by one. The bottom layer is about physical security. It's hard to pay attention to the question "what to do?" if your shelter is insecure, if you experience lack of water and food, if you don't have resources to cover your basic physiological and safety needs. Or at least your question "what to do?" will be focused on satisfaction of theese needs. When your physiological and safety needs are met, the context of the "what to do?" question will be different. Pay some attention on the context of your question "what to do?" and the Maslow's Hierarchy levels your are existing right now.
@@ -60,7 +61,7 @@ The question "what to do" is tied with all your personality which is and was exp
 
 Another important thing to mention that the answer can be very simple. When you find it, you could cry out: "how is that possible, it was always right here nearby". But the process of adoption, understanding, and implementation of the answer can be long enough. Or not. 
 
-## Logging tool is required
+## Logging tool will help a lot
 Since the journey can take time, and the matter is pretty complex, it's nice to have some logging tool. Your notices and recordings will help you during (and after) your journey to reflect, to get self-support, to remind important details. 
 You can use tools you are familiar to. If there is no any, the proven methods are:
 * Regular diaries;
