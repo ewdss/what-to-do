@@ -50,7 +50,7 @@ Ask LLM to generate few questions adapted to your curcumstances and relevant for
 
 If you are reading this guide and don't have satisfactory asnwer for the question: "What to do", then probalby you would not have clear answers for the questions testing you in the extreme conditions. It's totally okay! There are few tricks you can use to go ahead:
 * Reduce rationalizing and increase feeling. I.e. "If I have a really lot of money on my bank account, I'll feel very excited and energized by doing ... ".
-* Reduce the scale and uncertainty by adding small timeframes. I.e. "If I have a really lot of money on my bank account, the next few hours I will ... ".
+* Reduce the scale and uncertainty by adding small timeframes. I.e. "If I have a really lot of money on my bank account, the next few hours/days/weeks I will ... ".
 
 It would not hurt to add few "why" quesstions to pick out the core of your excitement.  
 

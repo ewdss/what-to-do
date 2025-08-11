@@ -24,20 +24,20 @@ The structure of the guide:
 ## Disclaimer
 * This is not emergency resque toolkit or medically approved guide. Please, seek for the professional medical help in case you need it. 
 * This is not "one size fits all" guide. Look through and try on what fits you personally, your expectations and possibilities. 
-* Human life is a complex thing. All situations and circumstances are unique. You can add "it is common, that ...", "highly likely, that ...", "highly unlikely, that ...", and similar phrases to almost every sentence in this guide. 
+* Human life is a complex thing. All situations and circumstances are unique. You should add "it is common, that ...", "highly likely, that ...", "highly unlikely, that ...", and similar phrases to almost every sentence in this guide. 
 * This guide may contain links to some external resources. The only reason for that is to support a reader who wants to dig a specific topic deeper. There is no any commercial reasons or referral relationship for that. 
 
 ## [Chapter 0 - Some prerequisites before you start](/prerequisited.md)
 There are some points to check and fix if required, before you start your journey in finding out what to do. 
 
 ## [Chapter 1 - Explore yourself](/explore_yourself.md)
-Useful things to know about yourself
+Before you start the initial and later each next iteraction of the searching the answer to the question "What to do?", it could be useful to know out or remember some useful things about yourself, that can help you to calibrate your compass. 
 
 ## [Chapter 2 - Explore around](/explore_around.md)
-text
+Check your surroungind and sources of your desires, beliefes and biases.
 
 ## [Chapter 3 - Start moving](/start_moving.md)
-text
+You can't get new image staying on the same place.
 
 ## [Chapter 4 - Keep moving](/keep_moving.md)
 text
@@ -48,7 +48,8 @@ text
 ## [Chapter 6 - Repeat if neccessary](/repeat.md)
 text
 
-## [Chapter 99 - Counclusion](/conclusion.md)
+## [Chapter 42 - Counclusion](/conclusion.md)
+text
 
 ## Contribution policy
 1. Propose commit if you want to add. 
