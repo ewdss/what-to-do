@@ -37,7 +37,7 @@ Before you start the initial and later each next iteraction of the searching the
 Check your surroungind and sources of your desires, beliefes and biases.
 
 ## [Chapter 3 - Start moving](/start_moving.md)
-You can't get new image staying on the same place.
+You can't get new picture while staying on the same place even if you think about it for centuries.
 
 ## [Chapter 4 - Keep moving](/keep_moving.md)
 text

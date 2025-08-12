@@ -51,8 +51,6 @@ You should be informed about Maslow's Hierarchy - a series of Human needs aligne
 
 Another important checkbox is about your surroundings. You can be in single, few or many surroundings around you - parents, close relatives, school, or colledge, or work friends, sport team, local community etc. To find the answer for the question: "what to do?", if you didn't find it yet, it might be required to make a step outside of your familiar world around you: things you are fond of, ways you are thinking, mindset, regular habits etc. And the common behaviour of most human communitites is to resist changes and to punish the renegades. There is nothing wrong about it, it's just a evolutionarily proven way to survive. This is visible especially clear in the teenagers community, where it is extremly hard to be not like everyone. Imagine that you want to try to demonstrate your desire to go to the gym and doing homework instead of playing computer games or drinking beer (adapt this example to your experience). 
 
-### Caveats
-
 ### External links and resources
 * [Google "what is the Maslow's hierarchy"](https://www.google.com/search?q=what+is+the+Maslow%27s+hierarchy)
 
