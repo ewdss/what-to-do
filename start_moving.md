@@ -14,20 +14,28 @@ The effective output of that is you ability to articulate it to the outer world 
 It would be extremely helpful if you feel safe to discuss your findings with your friends or relatives. Often you understand the topic better if you tell it to somebody. And even better, if you are lucky one to get some feedback. 
 
 Second section of your "plan" is the list of ideas that will saturate you with the energy. Body movement is the king here, but should not be limited to that approach only. 
-A good advice here is to get the low hanging fruit. What it means is that until you are not the Olympic-level athlete, you don't need top-of-the-notch coach. You need the closest gym with the suitable schedule. If you can't travel to the Antarktida right now, travel to the Ayacucho (adapt this example to the nearest city you have never been to, and it should not start on A, of course). So, don't stuck in reading review or thinking throght the route. Don't scale before you get the speed. Don't center on how to perform better. Simply do.  
+A good advice here is to get the low hanging fruit. What it means is that until you are not the Olympic-level athlete, you don't need top-of-the-notch coach. You need the closest gym with the suitable schedule. If you can't travel to the Antarktida right now, travel to the Ayacucho (adapt this example to the nearest city you have never been to, and it should not start on A, of course). So, don't stuck in reading review or thinking throght the route. Don't scale before you get the speed. Don't center on how to perform better. In the beginning number and breadth of tries will give you much more opportunity than elaboration and depth of each try. Simply do.  
 
 This two sections are enough for the beginning. 
 
-## Become ready for opportunities
-"The teacher comes when the student is ready" - old proverb says. Since the process of searching for the "What to do?" answer can become mix of rationalized approaches and irrationalized sparks, its nice to become ready for some kind of magic to happened. 
+## Moving is the King
+If you remember stories that inspires you, most likely it would be directly or indirectly related to actions. 10-years long meditation in a distance cave is also form of action. Consious not-doing, i.e. decision not to do something, is also form of action. So, acting or doing is the essential part of learning the question "what to do". Again, if thinking did not help you yet, then you should overcome from thinking to trying, and doing is mandatory companion of trying. 
 
+## Become ready for opportunities
+"The teacher comes when the student is ready" - old proverb says. Since the process of searching for the "What to do?" answer can become mix of rationalized approaches and irrationalized sparks, its nice to become ready for some kind of magic to happened. You'll never know how it would happen until it is. Person that does not fit into your expectations about a good partner can give you single but important advice or highlight the direction that you would follow. Workshop on the topic that you'll not dig further can provide you few insights that can become basement for the next steps. It's a good practice to keep positive attitude and open mind while scouiting around.  
 
 ## Why feeling is important
-Frankly speaking, if you was not able to find "what to do?" answer for a long time with all your efforts you have put into thinking about that, then it's not common that you can find the answer only with your brain power. Another very important point is that phrase "you feel it wrong" in a nonsense. Feeling can become reliable source of direction for searching period. You can feel differently if you 
+Frankly speaking, if you was not able to find "what to do?" answer for a long time with all your efforts you have put into thinking about that, then it's not common that you can find the answer only with your brain power. Another very important point is that phrase "you feel it wrong" in a nonsense. Feeling can become reliable source of direction for searching period. 
 
 ### External resources
 some books here
 
+## Be careful with the following of someone's track of doing
+Intentions are more important than visible track in that case. Be very careful to follow someone's path, especially if you don't know the guide personally. If you are personally acquainted, then at least you can be partly sure that you know something about your guide intentions. And you can cross-check, does it fit with your own mindset and behavior. But when you know this track as a written (vlogged) success or failure story, you will not be able to conduct such cross-check. 
+
+Brief example. Imagine, that you are inspired with the story of building a charity school somewhere in the far corner of the world. The author could get the inspiration by helping needy children. Other reader could be inspired by mastering the construction skills and taking the best of the very limited resources. Another reader could be inspired by traveling and working in the remote areas. 
+
+So, not discarding the insipring stories itself, be cautios about direct following the visible path above the story. 
 
 ## Some discipline would be needed
 Fortunately or unfortunaly, you'll need at least little of discipline to keep the motion at the very beginning. There are a lot of thing that will anchoring you to your home port. 

@@ -49,7 +49,7 @@ text
 text
 
 ## [Chapter 42 - Counclusion](/conclusion.md)
-text
+Short summary of everything above.
 
 ## Contribution policy
 1. Propose commit if you want to add. 
