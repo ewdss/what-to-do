@@ -14,38 +14,31 @@ Few words about the foundation of this guide:
 1. It uses well-known repetitive cycles of action with the feedback loops like PDCA, HADI, Agile iteraction cycle, Cisco PPDIOO, etc. 
 2. It is based on the related to the title reccurring ideas from set of the books, articles and movies compiled together. 
 
-<!-- The structure of the guide:
-1. Chapters 
-2. Topics  
-    2.1. Description  
-    2.2. Caveats [Optional]  
-    2.3. Links to external resources [Optional] -->
-
 ## Disclaimer
 * This is not emergency resque toolkit or medically approved guide. Please, seek for the professional medical help in case you need it. 
 * This is not "one size fits all" guide. Look through and try on what fits you personally, your expectations and possibilities. 
 * Human life is a complex thing. All situations and circumstances are unique. You should add "it is common, that ...", "highly likely, that ...", "highly unlikely, that ...", and similar phrases to almost every sentence in this guide. 
 * This guide may contain links to some external resources. The only reason for that is to support a reader who wants to dig a specific topic deeper. There is no any commercial reasons or referral relationship for that. 
 
-## [Chapter 0 - Some prerequisites before you start](/prerequisited.md)
+## [Chapter 0 - Some prerequisites before you start](/docs/prerequisited.md)
 There are some points to check and fix if required, before you start your journey in finding out what to do. 
 
-## [Chapter 1 - Explore yourself](/explore_yourself.md)
+## [Chapter 1 - Explore yourself](/docs/explore_yourself.md)
 Before you start the initial and later each next iteraction of the searching the answer to the question "What to do?", it could be useful to know out or remember some useful things about yourself, that can help you to calibrate your compass. 
 
-## [Chapter 2 - Explore around](/explore_around.md)
+## [Chapter 2 - Explore around](/docs/explore_around.md)
 Check your surroungind and sources of your desires, beliefes and biases.
 
-## [Chapter 3 - Start moving](/start_moving.md)
+## [Chapter 3 - Start moving](/docs/start_moving.md)
 You can't get new picture while staying on the same place even if you think about it for centuries.
 
-## [Chapter 4 - Keep moving](/keep_moving.md)
+## [Chapter 4 - Keep moving](/docs/keep_moving.md)
 Continue to pilot your life and pursuit for "what to do?" answer both.
 
-## [Chapter 5 - Inspect the results and repeat if neccessary](/inspect.md)
+## [Chapter 5 - Inspect the results and repeat if neccessary](/docs/inspect.md)
 text
 
-## [Chapter 42 - Counclusion](/conclusion.md)
+## [Chapter 42 - Counclusion](/docs/conclusion.md)
 Short summary of everything above.
 
 ## Contribution policy
