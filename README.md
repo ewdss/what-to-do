@@ -14,12 +14,12 @@ Few words about the foundation of this guide:
 1. It uses well-known repetitive cycles of action with the feedback loops like PDCA, HADI, Agile iteraction cycle, Cisco PPDIOO, etc. 
 2. It is based on the related to the title reccurring ideas from set of the books, articles and movies compiled together. 
 
-The structure of the guide:
+<!-- The structure of the guide:
 1. Chapters 
 2. Topics  
     2.1. Description  
     2.2. Caveats [Optional]  
-    2.3. Links to external resources [Optional]
+    2.3. Links to external resources [Optional] -->
 
 ## Disclaimer
 * This is not emergency resque toolkit or medically approved guide. Please, seek for the professional medical help in case you need it. 
@@ -40,12 +40,9 @@ Check your surroungind and sources of your desires, beliefes and biases.
 You can't get new picture while staying on the same place even if you think about it for centuries.
 
 ## [Chapter 4 - Keep moving](/keep_moving.md)
-text
+Continue to pilot your life and pursuit for "what to do?" answer both.
 
-## [Chapter 5 - Inspect the results](/inspect.md)
-text
-
-## [Chapter 6 - Repeat if neccessary](/repeat.md)
+## [Chapter 5 - Inspect the results and repeat if neccessary](/inspect.md)
 text
 
 ## [Chapter 42 - Counclusion](/conclusion.md)

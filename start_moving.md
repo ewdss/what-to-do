@@ -28,10 +28,8 @@ If you remember stories that inspires you, most likely it would be directly or i
 
 
 ## Why feeling is important
-Frankly speaking, if you was not able to find "what to do?" answer for a long time with all your efforts you have put into thinking about that, then it's not common that you can find the answer only with your brain power. Another very important point is that phrase "you feel it wrong" in a nonsense. Feeling can become reliable source of direction for searching period. 
+Frankly speaking, if you was not able to find "what to do?" answer for a long time with all your efforts you have put into thinking about that, then it's not common that you can find the answer only with your brain power. Another very important point is that phrase "I feel it wrong" in a nonsense. Feeling can become reliable source of direction for searching period. 
 
-### External resources
-some books here
 
 ## Be careful with the following of someone's track of doing
 Intentions are more important than visible track in that case. Be very careful to follow someone's path, especially if you don't know the guide personally. If you are personally acquainted, then at least you can be partly sure that you know something about your guide intentions. And you can cross-check, does it fit with your own mindset and behavior. But when you know this track as a written (vlogged) success or failure story, you will not be able to conduct such cross-check. 
@@ -52,11 +50,11 @@ Couple of things:
 3. So, you should start your own fight for growing and keeping the positive enery. Try to keep energy eaters away from your energy bank: anything like destructive relationship and up to unlimited watching TV series. 
 
 ## After all of above, if some exact ideas is needed
-It can be understood, that first step can be very hard to do. Probably chatting with LLM regarding this topic will do the best.
+It can be understood, that first step can be very hard to do. Probably chatting with LLM regarding this topic will do the best, and you'll get the list from trying to cook new dishes and to deprevation compartments. 
 
 Several considerations:
 
-* Do not stick to "monetization" at the very beginning. Volunteering, learning, sport, tracking can appear as a good starting point. Go for trying, movements and  experience first, value later. 
-* Preffer in-person and group activites to online and solo if possible. 
-* Think about easy and short-term appoaches. I.e. you want to try ocean sailing races, and have never put your foots on a deck before, then probably taking the beginner course in the local yacht school, volunteering during the yacht event or even joining 1-day commercial charter will give you more understanding, energy and networking in the contrary of thinking about the goal that is not likely to be achievable in the nearest future. 
+* Do not stick to "monetization" at the very beginning. Volunteering, learning, gym, hiking, and similar can appear as a good and quick starting point. Go for trying, movements and experience first, clarify value later. 
+* Think about easy to perform and short-term appoaches. I.e. you want to try ocean sailing races, and have never put your foots on a deck before, then probably taking a beginner course in a local yacht school, volunteering during the yacht event or even joining 1-day commercial charter will give you more understanding, energy and networking in the contrary of thinking about the goal that is not likely to be achievable in the nearest future. 
+* Preffer in-person and group activites to online and solo if possible. Few mates around will speed up comprehension. 
 
