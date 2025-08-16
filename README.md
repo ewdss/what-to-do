@@ -13,10 +13,8 @@ To clarify the possible value of this guide:
 3. It is not intended to find the way of doing something you know about, and you basically know how to do it, but you don't have experience. For example, if you need to repair the water tap but don't know anything about plumbing, this guide is not the right tool to answer the question: "I don't know what to do."
 
 Few words about the foundation of this guide:
-
-It uses well-known repetitive cycles of action with feedback loops like PDCA, HADI, Agile iteration cycle, Cisco PPDIOO, etc.
-
-It is based on the recurring ideas related to the title from a set of courses, books, articles, etc., compiled together.
+* It uses well-known repetitive cycles of action with feedback loops like PDCA, HADI, Agile iteration cycle, Cisco PPDIOO, etc.
+* It is based on the recurring ideas related to the title from a set of courses, books, articles, etc., compiled together.
 
 ## Disclaimer
 
