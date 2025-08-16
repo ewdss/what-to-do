@@ -1,70 +1,79 @@
 # Keep moving
-Continue to piloting both your life and you pursuit for "what to do?" answer.
+Continue piloting both your life and your pursuit of the "what to do?" answer.
 
-The following story is about pilot exams. It is not fact-checked, so take is as metaphor. Imagine, that commercial aviation pilot during regular exam get the question to answer: "You are captain flying narrow-body 2-engine commercial airplane, fully loaded with passangers. Right now you are above long mountain range. You second pilot felt seek, staying in the lavatory for 1 hour and unable to help you piloting the plane. One engine has just failed and stopped. Radio is working only inbound and you can't send distress signal, but can hear all comms from dispatchers and other planes. One of the elderly passengers lost consciousness and was foaming at the mouth. A woman at the end of the salon in late pregnancy goes into labor. Senior flight attendant is waiting for directions to transmit it to other passengers. What should you do first?"
+The following story is about pilot exams. It’s not fact-checked, so take it as a metaphor. Imagine a commercial aviation pilot during a routine exam being asked:
+"You are the captain flying a narrow-body, two-engine commercial airplane, fully loaded with passengers. Right now, you're flying above a long mountain range. Your second pilot felt sick, has been in the lavatory for an hour, and is unable to assist. One engine has failed and stopped. The radio works only inbound — you can hear dispatchers and other planes, but cannot send a distress signal. One of the elderly passengers has lost consciousness and is foaming at the mouth. A woman in late pregnancy, sitting at the back, goes into labor. The senior flight attendant is waiting for your instructions to share with the passengers. What should you do first?"
 
-Correct answer: first of all, you should keep flying the plane. 
+Correct answer: first of all, you should keep flying the plane.
 
-Lack of "what to do?" answer should not lead to the life freezing. You have a lot of daily things in your life that you should take care about - personal hygiene, health, relations with the relatives and friends, work duties, etc. It is unproductive to skip this part of life while searching. The fact that you have not found your general course yet, does not mean that you should not maneuver around to stay in comfort and safety. Lack of general course does not mean (and should not mean) lack of joy and fun of your daily activities. 
+Lacking a "what to do?" answer should not lead to freezing your life. You still have many daily things that need your attention — personal hygiene, health, relationships with family and friends, work responsibilities, etc. It’s unproductive to neglect these while searching. The fact that you haven’t found your larger direction yet doesn’t mean you shouldn’t maneuver to stay comfortable and safe. Lack of a big course doesn’t mean (and shouldn’t mean) a lack of joy or fun in your day-to-day activities.
 
 ### External resources
 [The 5 Types of Wealth, book](https://www.the5typesofwealth.com/)
 
 ## Keep focus, but don't anticipate 
- Another nice story is from counter-emergency training for motorcycle drivers. If you accidentaly driving into the pillar, don't look at the pillar, but look to the passage nearby. If you look at the pillar, you'll definitely end you current riding in the pillar. If you look and keep you focus at the passage, there are chances that you pass there. 
+Another great story comes from counter-emergency training for motorcycle drivers. If you're accidentally heading toward a pillar, don’t look at the pillar — look at the open passage nearby. If you keep your focus on the pillar, you’ll end your ride in it. If you keep your focus on the open path, there's a chance you'll make it through.
 
-It can be a good idea to keep focus on the searching, but don't anticipate the result. What it means that if you keep the focus pretty long, you can begin to anticipate the possible outcomes: vision of the desired result, possible and impossible sources of the positive results. Not the best help from your mind if you already have stuck with overthinking about "what to do?". 
+It’s a good idea to maintain focus on your search — but don’t anticipate the result. What does that mean? It means that if you keep the focus long enough, your mind may start to anticipate the outcomes: creating visions of what the result should be, what the right sources might be, or which ones are impossible. That kind of mental prediction may not help if you're already stuck in overthinking "what to do?"
 
-Imagine that you are trying to reach the destination behind the door. And the door does not open. What is the right path to get? The door opens in the other direction? Use the lock picker? Visit this plays during working hours? Find out that entrance are the next door, and this one is blind door just for the exterior design? Ask passerby and get answer that the show moved to the next block? Accept the fact that you can enter by appointment only?
+Imagine you're trying to reach a destination behind a closed door. But the door won’t open. What now?  
+Does it open the other way?  
+Do you need a lock pick?  
+Should you come during working hours?   
+Is it the wrong door entirely — maybe just for decoration?  
+Will a passerby tell you the event has moved to another building?  
+Do you need an appointment?  
 
-While keeping focus on trying to get, don't anticipate all the possible ways to do it because you'll probably miss the correct options.
+While staying focused on getting in, don’t try to anticipate all possible ways of doing it — or you might miss the one real option.
 
 ## How to understand if I'm trying and doing the correct things
-First of all, "trying" should not always match the adjective "correct attempt", because trying is the process of understanding the correctness. 
+First of all, trying doesn’t need to be labeled as "correct attempt", because trying is the way you learn what’s correct.
 
-Secondly, no one knows except youself. Few pegs:
-* If you do not harm yourself or other living beings, then it is probably okay to do. Especially if you enjoy it. Pay special attention to not harming yourself. This is important.
-* If you enjoy, continue doing. When looking for the "What to do?" answer, it's not the best time to optimize things. Just try to figure out what to do. Not "how?", "how long?", "can I do it better?", "can I delegate it?", etc. 
-* Use feeling first. Use long-term emotional calendar, etc. If you gain positive energy 7 times of 10, then you are probably on the right track. 
-* The very strong indicator that you want to radiate around. If you want to share and radiate, then it can be a good lead to the list of answers of the "what to do?" question. In the opposite, scale is not. Be cautious with scale as a source of energy. 
+Second — no one knows the answer except you. A few indicators:
+* If you're not harming yourself or others, it's probably okay — especially if you enjoy it. Pay extra attention to not harming yourself. That matters.
+* If you enjoy it — continue. When searching for the "what to do?" answer, it's not time to optimize. You’re trying to figure out what, not how, how long, can I do it better, should I delegate it, etc.
+* Prioritize feeling. Use a long-term emotional tracker. If you gain positive energy 7 times out of 10, you’re likely on the right path.
+* A powerful sign: the desire to radiate. If you want to share your experience or energy with others, it might be part of your answer. In contrast, scale is not a reliable sign. Be cautious with scale as a source of motivation.
 
-What is likely to be the landmarks of a good path:
-* You enjoy the topic and are curious about it. You wake up with a positive thoughts about it, you smile when you thing about it. 
-* Your curiosity expands, but not shrink. You study either depth either width of the topic.
-* You are passionate about mastering in the field. Books and vlogs are jumping themselves right into you hand. 
-* You want to radiate about the topic. Desire to share with someone is extremly strong proof of the right direction. 
+Likely landmarks of a good path:
+* You enjoy the topic and feel curious. You wake up with positive thoughts about it, maybe even a smile.
+* Your curiosity expands rather than shrinks. You explore either the depth or the breadth of the topic.
+* You feel passionate about mastering the field. Books and vlogs seem to find you on their own.
+* You want to radiate — the urge to share it with someone else is a strong signal. 
 
-What is not likely to be the signs of the your path:
-* Scale. If scale is complemented to something else, it's fine. If scale is the only (or main) sign around your direction, then assess it carefully. Couple of possible false-captivating points about the scale are: 
-    * Scale can feed you with a lot of work, so your desire for looking the "what to do?" answer could be blunted. 
-    * Scale can guide you to the growth of status or higher consumption level, which are very not likely to be the long-term answer of the "what to do?" question only by itself. 
-* Self-sacrifice. Serving and different types of volunteering is a good options to go. And the history knows a lot of examples when self-sacrificing for a benefit of other is intentend to be a strong act, i.e. saving someone life in dangerous conditions. But in the context of the searching for "what to do?" answer self-sacrifice can be sign of an abusive relationship or explotation of guilt. Check twice.
-* Monetization. Adult person spends most of his active time on the work place. It is extremly important if you can combine both your joy and your job. But don't care about it much at the very beginning. It's much better to find "what to do?" answer aside of your professional duties than not find it at all. You can manage it later when you'll be firm about you direction. 
+Signs that it’s not your true path:
+* Scale — If it’s the only (or main) motivating factor, evaluate carefully. It can give you lots of work and blunt your deeper desires. It can also lead to chasing status or consumption levels — which usually aren't long-term answers.
+* Self-sacrifice — Volunteering and serving others can be great. History knows a lot of examples when self-sacrificing for a benefit of other is intentend to be a strong act, i.e. saving someone life in dangerous conditions. But self-sacrifice in the context of searching for your path might point to guilt, pressure, or emotional exploitation.
+* Monetization — While it’s great to eventually make a living from your passion, it’s not essential in the early stages. It’s better to find "what to do?" apart from your work responsibilities than not find it at all. You can figure out integration later.
 
 
 ## Doing smart is better than doing hard
-Perseverance is good but perseverance without assessment can lead to useless increase in entropy. "Doing hard" is a known trap because it means a lot of occupation, and occupied person is not intented to ask questions. One of the rules when instructor leads kids camps (or sergant rules his young squad) is to keep kids (soldilers) permanentrly busy. Being busy and tied is less likely to ask questions or create obscenity. 
+Perseverance is good — but perseverance without assessment just adds entropy. "Doing hard" is a common trap. It keeps you occupied, and an occupied person is less likely to ask uncomfortable questions. One of the rules for instructors in kids' camps (or military drills) is to keep the kids (or recruits) constantly busy. Busy people are more obedient, more tired, and less rebellious.
 
-In our case your mind can lead you to stay busy just because to be busy and tied is much more easy for you mind than be confused because you don't know the "what to do?" answer. 
+In your case, your mind might push you to stay busy because that’s easier than feeling lost about "what to do?"
 
-Doing smart does not necessary mean to be lazy or tricky to rake in the fire with someone else's hands. It means that you should regularly assess if you (or someone) really interested the output and if there are more simple ways to do. 
+Doing smart doesn't mean being lazy or manipulative. It means regularly checking whether you (or anyone else) actually care about the output — and whether there’s a simpler or better way to get there.
 
 ## Find the balance between keep doing and stop doing
-At some point you can face the question should or should not you continue the current try, including, but not limited to the situation when you experience the joy but in the same way have to make an effort to continue. Sometimes it is hard to distingush effort to continue and effort to overcome your own resistance. Basicly you should trust yourself and your feeling about that, but if you are in doubt, here is a couple of possible advices about. 
+Eventually, you may wonder whether you should continue your current effort — especially when you're enjoying it but still need to push yourself to continue. It can be tricky to distinguish between effort to continue and effort to overcome resistance.
+
+You should mostly trust yourself and your feelings — but here are some tips:
 
 Forward direction signs: 
-* Expectations are tied with joy and fun. You perceive positive output after each iteration, although you need efforts to start and complete it.
-* Sense of involvement. You know that you need to make an effort, but you can't not to do it. 
+* Expectations are tied to joy and fun. Even if each step takes effort, you feel good after doing it.
+* A strong sense of involvement. Even when it’s hard, and you can't not to do it. 
 
 Warning signs: 
-* Fear of missing out the opportunity. Unlikely the good way to find the "what to do?" answer. You can calm yourself that you can always come back to that track if appropriate. 
-* Lack of passion and curiosity, however presense of responsibility and commitment. While keeping the commitment is a nice trait, commitment on the thing that is not the answer for the "what to do?" question would disturb your from your searching probably. 
+* Fear of missing out the opportunity. Unlikely to be a good way to find the "what to do?" answer. Reassure yourself that you can always return to that path later.
+* Lack of passion or curiosity, even if you feel responsible or committed. Commitment is great — but not if it locks you into something that distracts you from your real search.
 
 ## Failure is an option
-Fail fast, fail forward, fail often is startups and VCs matra. Failure is a normal output when you go into unknown and conduct a set of trials to find out what is right for you. Unsuccessful attempt could be norm when you are stepping on unknown grounds, so no blame, no proving "I can do it up to the end", no pushing only to complete. Just "this is not the answer I was looking for, it does not fit me now". 
+Fail fast, fail forward, fail often — this is a mantra in the startup world. Failure is a normal outcome when you’re exploring unknown territory. A failed attempt doesn’t mean you’re wrong or incapable. It just means: “This isn’t the answer I’m looking for. It doesn’t fit me now.” No blame. No need to prove you can "see it through to the end." No pushing just to finish something. Just move on.
 
 ## Staying calm and positive
-it's easy to get discouraged when another one attempt fails or when you can't feel the next step. There are a lot of known tools and techniques to overcome this: starting from praying or meditation and up to a good evening with your friends. Don't hesitate to use as needed
+t’s easy to get discouraged when a new attempt fails — or when you feel unsure about your next step. Fortunately, there are many proven ways to handle that: from prayer or meditation to a good evening with friends.
+
+Don’t hesitate to use whatever tools help you stay afloat.
 
 ### External resources
 * [Stop Overthinking, book](https://www.amazon.com/Stop-Overthinking-Techniques-Declutter-Emotional/dp/B08XLLF3PG/)

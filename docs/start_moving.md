@@ -1,64 +1,66 @@
 # Start moving
 
-You can't get new picture while staying on the same place even if you think about it for centuries. Imagine, that you are staying and looking on the hill, or moon, or door. You can't know what is on the other side of the hill. Maybe if you could live long enough, you can spend millions of years of evolution to equip youself with X-Ray eyes or gravitation sensors, but even after that you would not have full information of the situation on the other side. 
+You can't get a new picture while staying in the same place, even if you think about it for centuries. Imagine that you are standing and looking at a hill, or the moon, or a door. You can’t know what’s on the other side of the hill. Maybe if you lived long enough, you could evolve over millions of years and equip yourself with X-ray vision or gravitational sensors — but even then, you wouldn’t have full information about the other side.
 
-Another metahpor for this situation is "Fog of War". While you are standing still, you can observe only area around you. Somewhere on the other part of the map is you goal. You can spend really long time thinking, rethinking, and overthinking, but the path will not appear until you start to move, and the goal will not become closer until you move. 
+Another metaphor for this situation is "Fog of War." While you're standing still, you can only observe the area around you. Somewhere else on the map lies your goal. You can spend a really long time thinking, rethinking, and overthinking, but the path won't appear until you start to move, and the goal won't get any closer until you do.
 
-So, to find the "what to do?" answer, exactly your answer that fits you in that certain period of time, you have to start moving. Easy to tell, not easy to accomplish if you working on the question "What to do?" Similar to the task from old slavic fairy tales, where young hero is asked by his antagonist: "Go there, I don't know where, bring that, I don't know what". How does protagonist accomplish this "many unknowns" task? By starting moving and with the help of some miracle friend like [Konyok-Gorbunok](https://en.wikipedia.org/wiki/The_Little_Humpbacked_Horse)
+So, to find the "what to do?" answer — your exact answer that fits you in this specific period of time — you have to start moving. Easy to say, not easy to do, especially when you're still working on the question "What to do?" It’s similar to a challenge from old Slavic fairy tales, where the young hero is told by an antagonist: "Go there, I don’t know where; bring that, I don’t know what." How does the protagonist accomplish this many-unknowns task? By starting to move — and with the help of some miracle friend like [Konyok-Gorbunok](https://en.wikipedia.org/wiki/The_Little_Humpbacked_Horse)
 
 Now let's give it a try. 
 
 ## Assess your explorations and prepare a "plan"
-The best plan will be beaten by reality, but planning prepares you for impediments and suprises. 
+The best plan will still be beaten by reality — but planning prepares you for impediments and surprises.
 
-Put all toghether you have found during explorartion of yourself and surroundings: strenghs, weaknesses, desires, motivation, inspiration. How do you feel about that all?  
-The effective output of that is you ability to articulate it to the outer world when you need to explain your intentions, or have check-list to check if yet another opportunity around match you, or setup thresholds before jumping into the trial.   
-It would be extremely helpful if you feel safe to discuss your findings with your friends or relatives. Often you understand the topic better if you tell it to somebody. And even better, if you are lucky one to get some feedback. 
+Put together everything you've learned during exploration of yourself and your surroundings: strengths, weaknesses, desires, motivation, inspiration. How do you feel about all of it?
+A useful output here is your ability to articulate this to the outer world — to explain your intentions, to check if a new opportunity fits you, or to set personal thresholds before jumping into a trial.
+It would be extremely helpful if you feel safe enough to discuss your findings with friends or relatives. You often understand a topic better when you explain it to someone else. And if you're lucky enough to get feedback — even better.
 
-Second section of your "plan" is the list of ideas that will saturate you with the energy. Body movement is the king here, but should not be limited to that approach only. 
-A good advice here is to get the low hanging fruit first. What it means is that until you are not the Olympic-level athlete, you don't need top-of-the-notch coach. You need the closest gym with the suitable schedule. If you can't travel to the Antarktida right now, travel to the Ayacucho (*adapt this example to the nearest city you have never been to, and it should not start on A, of course*). So, don't stuck in reading review or thinking throght the route. Don't scale before you get the speed. Don't center on how to perform better. In the beginning number and breadth of tries will give you much more opportunity than elaboration and depth of each try. Simply do.  
+The second part of your "plan" is a list of ideas that will help generate energy. Body movement is the king here, but don't limit yourself to that alone.
+A good piece of advice is to grab the low-hanging fruit first. That means — unless you’re already an Olympic-level athlete, you don’t need a top-tier coach. You need a nearby gym with a schedule that works for you. If you can’t travel to Antarctica right now, go to Ayacucho (adapt this example to the nearest city you’ve never visited — and no, it doesn’t have to start with “A”). Don’t get stuck reading reviews or overthinking routes. Don’t scale before you gain speed. Don’t obsess over how to perform better before you’ve even started. In the beginning, the number and breadth of attempts will give you far more value than depth or polish. Just do.
 
-This two sections are enough for the beginning. 
+These two sections are enough for the beginning.
 
 ## Movement is the King
-If you remember stories that inspires you, most likely it would be directly or indirectly related to actions. 10-years long meditation in a distance cave is also form of action. Consious not-doing, i.e. decision not to do something, is also form of action. So, acting or doing is the essential part of learning the question "what to do?". Again, if thinking did not help you yet, then you should overcome from thinking to trying, and doing is mandatory companion of trying. 
+If you remember the stories that inspire you, most likely they are directly or indirectly related to action. Ten years of meditation in a remote cave is also a form of action. Conscious not-doing — i.e. the decision not to do something — is also a form of action. So acting or doing is an essential part of learning the answer to "what to do?" Again, if thinking hasn’t helped yet, then you need to shift from thinking to trying — and doing is a mandatory companion of trying.
 
 ## Become ready for opportunities
-"The teacher comes when the student is ready" - old proverb says. Since the process of searching for the "What to do?" answer can become mix of rationalized approaches and irrationalized sparks, its nice to become ready for some kind of magic to happened. You'll never know how it would happen until it is. Person that does not fit into your expectations about a good partner can give you single but important advice or highlight the direction that you would follow. Workshop on the topic that you'll not dig further can provide you few insights that can become basement for the next steps. 
+"The teacher comes when the student is ready" — says the old proverb. Since the search for the "What to do?" answer can become a mix of rational thinking and irrational sparks, it’s wise to stay open to a little magic. You’ll never know how it will happen — until it does. A person who doesn’t fit your usual idea of a “good advisor” might give you one important insight that changes your direction. A workshop you almost skipped might offer a few nuggets that become the foundation for your next step.
 
-It's a good practice to keep positive attitude and open mind while scouiting around. Tune your mindset for readiness for accepting inbound offers that is possible in very different ways: anything as random chat in the queue, roadside billboard, or sudden weekend event invitation from you mate.  
+It’s good practice to maintain a positive attitude and open mind while scouting around. Tune your mindset to be ready to accept incoming opportunities — which might arrive in unexpected forms: a random chat in a queue, a roadside billboard, a sudden weekend invitation from a friend.
 
 
 ## Why feeling is important
-Frankly speaking, if you was not able to find "what to do?" answer for a long time with all your efforts you have put into thinking about that, then it's not common that you can find the answer only with your brain power. Another very important point is that phrase "I feel it wrong" in a nonsense. Feeling can become reliable source of direction for searching period. 
+Frankly speaking, if you haven’t found the "what to do?" answer after all your efforts, it’s unlikely that more pure thinking alone will get you there. Another important point: the phrase "I feel it’s wrong" is never nonsense. Feeling can become a very reliable source of direction during the search phase.
 
 
 ## Be careful with the following of someone's track of doing
-Intentions are more important than visible track in that case. Be very careful to follow someone's path, especially if you don't know the guide personally. If you are personally acquainted, then at least you can be partly sure that you know something about your guide intentions. And you can cross-check, does it fit with your own mindset and behavior. But when you know this track as a written (vlogged) success or failure story, you will not be able to conduct such cross-check. 
+Intentions are more important than visible steps in this case. Be very careful about following someone else's path — especially if you don’t know the guide personally. If you do know them, at least you can guess their intentions and cross-check them against your own mindset and values. But when you’re learning from a written (or vlogged) success or failure story, you can’t conduct that same cross-check.
 
-Brief example. Imagine, that you are inspired with the story of building a charity school somewhere in the far corner of the world. The author could get the inspiration by helping needy children. Other reader could be inspired by mastering the construction skills and taking the best of the very limited resources. Another reader could be inspired by traveling and working in the remote areas. 
+A quick example: imagine you’re inspired by the story of someone building a charity school in a remote corner of the world.
+* One reader might be inspired by the desire to help underprivileged children.
+* Another might be inspired by learning construction skills and working with limited resources.
+* Another still might love the idea of traveling and working in remote areas.
 
-So, not discarding the insipring stories itself, be cautios about direct following the visible path above the story. 
+So, while the story may be inspiring, be cautious about directly following the visible path rather than understanding the intention behind it.
 
 ## Some discipline would be needed
-Fortunately or unfortunaly, you'll need at least little of discipline to keep the motion at the very beginning. There are a lot of thing that will anchoring you to your home port. 
-* Alcohol and drugs. Not sure if "disciplined consumption of alcohol" makes sense, but whatever. 
-* Disciplined eating. Trash food or random (unscheduled) food consumption could reduce your energy greatly. 
-* Disciplined schedule. You should point your attention to at least two parts of your schedule: sleeping and timeslots you distingush for gaining the energy (via body movement or anything else you are trying).
+Fortunately — or unfortunately — you’ll need at least a bit of discipline to keep moving in the very beginning. A lot of things will try to anchor you to your home port.
+* Alcohol and drugs. Not sure if “disciplined consumption of alcohol” is a valid term — but still.
+* Disciplined eating. Junk food or random (unscheduled) eating can greatly reduce your energy.
+* Disciplined schedule. Pay attention to at least two parts of your schedule: sleep and energy-recharge slots (via body movement or whatever else you're experimenting with)
 
-Couple of things:
-1. Searching for the answer for the question "What to do?" can become very energy-intensive process. And Universe (God, world, anything else you belive) usually send opportunities to persons with positive energy reserve to handle and exploit it. Descending to the ground, your companions will offer something or highlight insites to a more energetic person around them. 
-2. It can be very hard to change your habbits and schedule radically. Low chances of success here. Don't try to change all in once on a great scale. Add some discipline, beyound your present level of comfort, but below the level of rejection. 
-3. You should start your own fight for growing and keeping the positive enery. Try to keep energy eaters away from your energy bank: anything like destructive relationship and up to unlimited watching TV series. 
+A few things to remember:
+1. Searching for the answer to "What to do?" can be a very energy-intensive process. And the Universe (God, the world, or whatever you believe in) usually sends opportunities to those who have enough positive energy to handle and embrace them. Coming back to reality: your companions will likely offer opportunities or ideas to the person who has the most energy around them.
+2. It’s hard to radically change habits or routines overnight — the chances of success are low. Don’t try to change everything at once. Add just enough discipline to push beyond your current comfort zone — but not so much that you instantly reject it.
+3. You’ll need to start your own battle to grow and protect your positive energy. Try to keep energy drainers out of your energy bank — anything from toxic relationships to binge-watching endless TV shows.
 
 ## After all of above, if some exact ideas is needed
-It can be understood, that first step can be very hard to do. Probably chatting with LLM regarding this topic will do the best, and you'll get the list of ideas to try from cooking new dishes and up to deprevation compartments. 
+It’s totally understandable if that very first step still feels hard. Probably chatting with an LLM about this topic will be helpful — and you’ll get a list of ideas to try, ranging from cooking new dishes to sensory deprivation pods.
 
-Several considerations:
-
-* Do not stick to "monetization" at the very beginning. Volunteering, learning, gym, hiking, and similar can appear as a good and quick starting point. Go for trying, for movements and experience first, clarify the value later. 
-* Think about easy to perform and short-term appoaches. I.e. you want to try ocean sailing races, and have never put your foots on a deck before, then probably taking a beginner course in a local yacht school, volunteering during the yacht event or even joining 1-day commercial charter will give you more understanding, energy and networking in the contrary of thinking about the goal that is not likely to be achievable in the nearest future. 
-* Preffer in-person and group activites to online and solo if possible. Few mates around will speed up comprehension. 
+A few considerations:
+* Don’t fixate on monetization at the very beginning. Volunteering, learning, working out, hiking — these can all be quick and useful starting points. Focus on trying, moving, and getting experience. Clarify value later.
+* Think in terms of easy-to-start, short-term options. For example: if your dream is to join an offshore sailing race but you’ve never set foot on a boat, maybe it’s best to start with a beginner course at a local yacht school, volunteer at a sailing event, or join a one-day charter trip. These steps will give you far more clarity, energy, and networking than endlessly thinking about a distant goal.
+* Prefer in-person and group activities over online and solo — if possible. A few mates around you will speed up comprehension.
 
 ## Havigation
 [Main page](/README.md)  
