@@ -17,14 +17,10 @@ Few words about the foundation of this guide:
 * It is based on the recurring ideas related to the title from a set of courses, books, articles, etc., compiled together.
 
 ## Disclaimer
-
-This is not an emergency rescue toolkit or a medically approved guide. Please, seek professional medical help if you need it.
-
-This is not a "one size fits all" guide. Look through and try what fits you personally, meets your expectations, and matches your possibilities.
-
-Human life is a complex thing. All situations and circumstances are unique. You should add "it is common, that ...", "highly likely, that ...", "highly unlikely, that ...", and similar phrases to almost every sentence in this guide.
-
-This guide may contain links to some external resources. The only reason for that is to support a reader who wants to dig into a specific topic deeper. There are no commercial reasons or referral relationships for that.
+* This is not an emergency rescue toolkit or a medically approved guide. Please, seek professional medical help if you need it.
+* This is not a "one size fits all" guide. Look through and try what fits you personally, meets your expectations, and matches your possibilities.
+* Human life is a complex thing. All situations and circumstances are unique. You should add "*it is common, that ...*", "*highly likely, that ...*", "*highly unlikely, that ...*", and similar phrases to almost every sentence in this guide.
+* This guide may contain links to some external resources. The only reason for that is to support a reader who wants to dig into a specific topic deeper. There are no commercial reasons or referral relationships for that.
 
 ## [Chapter 0 - Some prerequisites before you start](/docs/prerequisited.md)
 There are some points to check and fix if required, before you start your journey in finding out what to do.
