@@ -33,7 +33,7 @@ A few thoughts on this section:
 * Generally, if you're open enough and not blind to the potential of people around you — and still haven’t found your "what to do?" answer — then maybe you’ll need some additional surroundings for growth. Or maybe it’s time to clean the lens and look at those group members again (with more openness and less judgment). Or do both.
 * Imagine the best possible course of action in that group or community. Do you feel satisfied by that vision? If not, it doesn’t necessarily mean you should leave — but maybe you should look for complementary opportunities elsewhere.
 
-## Navigatoion
+## Navigation
 [Main page](/README.md)  
 [Previous chapter](/docs/explore_yourself.md)  
 [Next chapter](/docs/start_moving.md)  
